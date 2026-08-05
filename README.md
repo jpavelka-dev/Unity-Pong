@@ -1,6 +1,11 @@
-﻿# Unity Pong
+# Unity Pong
 
 Jednoduchá 2D hra Pong vytvořená v Unity a C# jako jeden z mých prvních výukových Unity projektů.
+
+## Ukázka hry
+
+![Unity Pong gameplay](Assets/README/pong-gameplay0.png)
+![Unity Pong gameplay](Assets/README/pong-gameplay1.png)
 
 ## Funkce
 
